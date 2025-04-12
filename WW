@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WW Chronicles: Trenches to Thunder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>WW Chronicles: Trenches to Thunder</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#assets">Assets</a></li>
+                <li><a href="#prototype">Play</a></li>
+                <li><a href="#team">Team</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="hero">
+        <h2>From the Trenches to Total War</h2>
+        <p>Experience WWI and WWII like never before.</p>
+        <a href="#assets" class="btn">Download Assets</a>
+        <a href="#prototype" class="btn btn-alt">Try the Prototype</a>
+    </section>
+    <section id="about">
+        <h2>About the Project</h2>
+        <p>This game focuses on realistic trench warfare, tactical missions, and historical accuracy from both World Wars. Built in Unity using custom models and tools.</p>
+    </section>
+    <section id="assets">
+        <h2>Game Assets</h2>
+        <ul>
+            <li>🪖 Soldiers</li>
+            <li>🔫 Weapons</li>
+            <li>🚗 Vehicles</li>
+            <li>🌍 Environments</li>
+            <li>🎧 Audio FX</li>
+            <li>📄 Documents</li>
+        </ul>
+        <p><a href="#" class="btn">Download All</a></p>
+    </section>
+    <section id="prototype">
+        <h2>Play the Prototype</h2>
+        <p>Download and play the latest version of the game prototype.</p>
+        <a href="#" class="btn">Download Demo</a>
+    </section>
+    <section id="team">
+        <h2>Team & Credits</h2>
+        <p>Made by dedicated developers, artists, and history lovers. Join us on GitHub or follow on ArtStation.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 WW Chronicles Project</p>
+    </footer>
+</body>
+</html>
